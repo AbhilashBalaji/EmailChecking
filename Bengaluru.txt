@@ -1,5 +1,4 @@
-﻿
-Info1@inventureacademy.com
+﻿Info1@inventureacademy.com
 VINAY@SPURTHY.IN
 aavishkarmy@gmail.com
 admin@deccan.edu.in
@@ -10,7 +9,7 @@ airps.ka275@gmail.com
 aleemee_public_school@yahoo.com
 alpeshb@gurukul.org
 amarjyothi@msn.com
-anjurnaik@gmail.com
+anjurnaik@gmail.com,@vsnl.com
 aradhanaicseschool@hotmail.com
 aryapresidencyschool@gmail.com
 baldwingirls@gmail.com
@@ -102,8 +101,8 @@ info@sgmpublicschool.co.in
 info@sherwoodhigh.com
 info@vishwavidyapeeth.edu.in
 infocsblr@gmail.com
-janakvidyalayaa@gmail.com
-jyothilal@stmiras.com
+#janakvidyalayaa@gmail.com
+#jyothilal@stmiras.com
 kanvapublicschool@yahoo.com
 kavithabv2000@yahoo.co.in
 kevinpope21@yahoo.com
@@ -113,7 +112,7 @@ ladyvailankanni@yahoo.com
 lawrence.school.icse@gmail.com
 lowryicseschool@gmail.com
 mahatmavidyalaya99@gmail.com
-mail@mpsedu.com
+#mail@mpsedu.com
 mariacluny@rediffmail.com
 martinlutherenglishschool50@gmail.com
 maryimmaculateschool@rediffmail.com
@@ -171,8 +170,8 @@ s.philomena@yahoo.com
 sahs_school@rediffmail.com
 saroja.sridhar26@gmail.com
 sarvodaya.nps@gmail.com
-school@bethanyhigh.net
-school@tisb.ac.in
+#school@#bethanyhigh.net
+#school@tisb.ac.in
 schoolauxilium@gmail.com
 schsban@gmail.com
 scvk123@rediffmail.com
@@ -209,7 +208,7 @@ svrpschool@gmail.com
 swargarani_school@yahoo.com
 tapovanschool@gmail.com
 tbsghead@brigadeschools.edu.in
-tbswhead@bridageschools.org
+#tbswhead@bridageschools.org
 theregencypublicschool@gmail.com
 theresabacqschool@gmail.com
 tunbridgehs@gmail.com
@@ -230,7 +229,7 @@ spes.jpn83@yahoo.com
 head@ka029cisce.org
 principalfps@yahoo.co.in
 office@innisfreehouseschool.com
-carmel86@sify.com
+#carmel86@sify.com
 desikan.lalitha@gmail.com
 icse@kumarans.org
 jp.nagar@ekyaschools.com
@@ -245,7 +244,7 @@ rvpublicschool@gmail.com
 miranda_school@yahoo.co.in
 vsaicse@gmail.com
 info@maruthividyalaya.com
-principal@sundarshanvm.org
+#principal@sundarshanvm.org
 holyangels.highschool@yahoo.com
 praksh-murthy@yahoo.com
 stflowerenglishschool@gmail.com
@@ -267,7 +266,7 @@ info@mitraacademy.com
 principalsei@yahoo.com
 office@christacademy.in
 shantidhamahr1@gmail.com
-info@vinayakapublicschool.com
+#info@vinayakapublicschool.com
 svs.icse@gmail.com
 sfsicse@gmail.com
 principal@sgmpublicschool.co.in
@@ -289,38 +288,36 @@ principal@chrysalishigh.com
 administrator.bengaluru41@vibgyorhigh.com
 siddharthapublicschol@gmail.com
 principal.p2@amarjyoti.com
-
-
-A M C SCHOOL,norbertschool@hotmail.com
-ACHIEVERS ACADEMY,ashwini1916@yahoo.com
-Agragami Vidya Kendra,agragamividyakendra@yahoo.co.in
-AIR FORCE SCHOOL,afshebbal@gmail.com
-AIR FORCE SCHOOL,bs_jaya@homenetmail.com
-AIR FORCE SCHOOL,afsblr@vsnl.net
-AIR FORCE SCHOOL,afschoolyel_06386@gmail.com
-ALPINE PUBLIC SCHOOL,ghoh.amit@gmail.com
-AMARA JYOTHI PUBLIC SCHOOL,principal@amarjyotipublicschool.edu.in
-AMRITA VIDYALAYAM,av_banglore@rediffmail.com
-ANAND SHIKSHA KENDRA,ask_1994@rediffmail.com
-ARMY PUBLIC SCHOOL,apsprtc@gmail.com
-ARMY PUBLIC SCHOOL,apsblre@yahoo.com
-ARMY PUBLIC SCHOOL,ascps@hotmail.com
-ASHOK INTERNATIONAL PUBLIC SCHOOL,cbse.ashok@gmail.com
-B B U L JAIN VIDYALAYA,principal.jv@gmail.com
-B E L SCHOOL,raghupathymadhavarao@yahoo.co.in
-B.M.N. PUBLIC SCHOOL,vanlsan@yahoo.com
-B.R.S. GLOBAL SCHOOL,brsgce@yahoo.com
-B.R.V. Public School,brvpublicschool@yahoo.com
-Bangalore Scottish School,sureshnr2000@yahoo.com
-BEML PUBLIC SCHOOL,principal.p2@shishyabemlschool.com
-BGS INTERNATIONAL RESIDENTIAL SCHOOL,bgsirs@123india.com
-BGS National Public School,bgsnps@yahoo.com
-Bhavan-Bangalore Press School,bhavanbangalorepressschool@gmail.com
-BRILLIANT NATIONAL SCHOOL,apjsuresh@gmail.com
-CAMBRIDGE CBSE ACADEMY,khannigar@rocketmail.com
-CAPITAL PUBLIC SCHOOL,capitalpublic@yahoo.com
-CAPITOL PUBLIC SCHOOL,mynasheshadri@gmail.com
-CHITRAKOOTA SCHOOL,chitrakootaschool@gmail.com
+norbertschool@hotmail.com
+ashwini1916@yahoo.com
+agragamividyakendra@yahoo.co.in
+afshebbal@gmail.com
+#bs_jaya@homenetmail.com
+afsblr@vsnl.net
+afschoolyel_06386@gmail.com
+ghoh.amit@gmail.com
+#principal@amarjyotipublicschool.edu.in
+av_banglore@rediffmail.com
+ask_1994@rediffmail.com
+apsprtc@gmail.com
+apsblre@yahoo.com
+ascps@hotmail.com
+cbse.ashok@gmail.com
+principal.jv@gmail.com
+raghupathymadhavarao@yahoo.co.in
+vanlsan@yahoo.com
+brsgce@yahoo.com
+brvpublicschool@yahoo.com
+sureshnr2000@yahoo.com
+principal.p2@shishyabemlschool.com
+bgsirs@123india.com
+bgsnps@yahoo.com
+bhavanbangalorepressschool@gmail.com
+apjsuresh@gmail.com
+khannigar@rocketmail.com		
+capitalpublic@yahoo.com
+mynasheshadri@gmail.com
+chitrakootaschool@gmail.com
 CHRYSALIS HIGH,principal.kadugodi@chrysalishigh.com
 cmr national public school,cmrnps.net@gmail.com
 Concorde International School,raghuveeryv04@yahoo.co.in
@@ -490,38 +487,38 @@ THE BRIGADE SCHOOL,principal@tvsacademyhosur.com
 The Brigade School  At Mahadevapura,coordinator@brigadeschools.org
 THE DEEN'S ACADEMY,lok_lib@yahoo.co.in
 The Great Eastern International Public School,shashikira@ewit.edu
-The J.H.S. School,Jhsschool.org@gmail.com
-THE OXFORD SENIOR SECONDARY SCHOOL,oxfordcbse@gmail.com
-The Stepping Stones School,amoghainternational@yahoo.com
-Thyagaraju Central School,tcs_bidadi@yahoo.co.in
-TREAMIS WORLD SCHOOL,av_banglore@rediffmail.com
-V S S INTERNATIONAL PUBLIC SCHOOL,VSSIPS@GMAIL.COM
-VAGDEVI VILAS SCHOOL,info@vvi.edu.in
-VAGDEVI VILAS SCHOOL,msvm@yahoo.co.in
-Vagdevi Vilas School,vagdevivilasbidadi@yahoo.co.in
-VAHE GLOBAL ACADEMY,reachus@vaheglobalacademy.org
-VENKAT INTERNATIONAL PUB SCHOOL,lestishiaharris@ymail.com
-VENKAT INTERNATIONAL PUBLIC SCHOOL,mgpsvn@hotmail.com
-VIDYA VAHINI SCHOOL,vidyamandir.estancia@gmail.com
-VIDYANIKETAN PUBLIC SCHOOL,prasad_don@yahoo.com
-Vidyashree High School,vidyashreeschool@gmail.com
-Vishwaprajnaa Academy,vishwaprajnaa@gmail.com
-Vyasa International School,vyasa.international@gmail.com
-Whitefield Global School,cet.edu@gmail.com
-YASHASVI VIDYANIKETHAN,yashasvi.sucess@gmail.com
-Young Scholars Academy,youngscholarsbinnie@gmail.com
-DELHI PUBLIC SCHOOL,ELECTRONIC CITY,BENGALURU,hmdpsecity@gmail.com
-Edify School Bengaluru,principal@edifyschoolbengaluru.com
-OAKRIDGE INTERNATIONAL SCHOOL,arjun.rao@oakridge.in
+Jhsschool.org@gmail.com
+oxfordcbse@gmail.com
+amoghainternational@yahoo.com
+tcs_bidadi@yahoo.co.in
+av_banglore@rediffmail.com
+VSSIPS@GMAIL.COM
+info@vvi.edu.in
+msvm@yahoo.co.in
+vagdevivilasbidadi@yahoo.co.in
+#reachus@vaheglobalacademy.org
+lestishiaharris@ymail.com
+mgpsvn@hotmail.com
+vidyamandir.estancia@gmail.com
+prasad_don@yahoo.com
+vidyashreeschool@gmail.com
+vishwaprajnaa@gmail.com
+vyasa.international@gmail.com
+cet.edu@gmail.com
+yashasvi.sucess@gmail.com
+youngscholarsbinnie@gmail.com
+hmdpsecity@gmail.com
+principal@edifyschoolbengaluru.com
+arjun.rao@oakridge.in
 PARIVARTHANA SCHOOL,info@parivarthan4u.com
-RADCLIFFE SCHOOL,brinda.ramesh@radcliffe.in
-Ravindra Bharathi Global School,rbgs.hsrlayout@gmail.com
-SAI CITY INTERNATIONAL SCHOOL,saicityschool@yahoo.com
-SRI CHAITANYA TECHNO SCHOOL,bannerghatta@srichaitanyaschool.net
-Sri Kumaran Children's Home English Nursery and Primary School,sri_kumaran@vsnl.com
+brinda.ramesh@radcliffe.in
+rbgs.hsrlayout@gmail.com
+saicityschool@yahoo.com
+bannerghatta@srichaitanyaschool.net
+sri_kumaran@vsnl.com
 vanatte.rrao@gmail.com
 vasudha.krishna@kumarans.org
-admin@stjohnsbangalore.org
+#admin@stjohnsbangalore.org
 principal.nlo@gmail.com
 kishorakendra@gmail.com
 mesbrs@gmail.com
@@ -541,11 +538,11 @@ shobha.a.g.gowda@gmail.com
 ascps@hotmail.com
 afschool@bgl.vsnl.net.in
 bgs_irs@yahoo.com
-contact.us@cottonboys.com
+#contact.us@cottonboys.com
 info@buddhischool.com
 info.yelahanka@chrysalishigh.com
-info@clarence-public-school.com
-info@disblr.in
+#info@clarence-public-school.com
+#info@disblr.in
 info@gopalanschool.com
 gopalanintlschool@gmail.com
 ipsvig@yahoo.com
